@@ -1,8 +1,8 @@
 {
-  "name": "Reposan Jilid 2",
+  "name": "Cuan Repo",
   "description": "Providers from all country",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/santveraaa/TestPlugins/refs/heads/master/plugins.json"
+    "https://raw.githubusercontent.com/santveraaa/cs/refs/heads/main/plugin.json"
   ]
 }
