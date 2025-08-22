@@ -1,0 +1,8 @@
+{
+  "name": "Reposan Jilid 2",
+  "description": "Providers from all country",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/santveraaa/TestPlugins/refs/heads/master/plugins.json"
+  ]
+}
