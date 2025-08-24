@@ -135,23 +135,22 @@
         "name": "MovieBoxProviderIN"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.nl&sz=%size%",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
-        "fileSize": 20856,
+        "repositoryUrl": "https://github.com/santveraaa/TestPlugins",
+        "fileSize": 7306,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated",
-            "TeKuma25"
+            "Cloudburst",
+            "Luna712"
         ],
         "tvTypes": [
-            "AsianDrama",
             "Movie"
         ],
-        "version": 13,
+        "version": 1,
         "internalName": "Dramaid",
-        "description": "Include: Oppadrama",
+        "description": "Asian Drama movie & series",
         "url": "https://raw.githubusercontent.com/santveraaa/TestPlugins/builds/ExampleProvider.cs3",
         "name": "Dramaid"
     },
