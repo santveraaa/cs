@@ -112,7 +112,7 @@
         "name": "MovieBoxProviderIN"
     },
     {
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/santveraaa/TestPlugins",
         "fileSize": 7306,
@@ -120,16 +120,17 @@
         "language": "en",
         "authors": [
             "Cloudburst",
-            "Luna712"
+            "Luna712",
+            "Hexated"
         ],
         "tvTypes": [
             "Movie",
-			"AsianDrama"
+            "AsianDrama"
         ],
         "version": 1,
         "internalName": "Dramaid",
-        "description": "Asian Drama movie & series",
-        "url": "https://raw.githubusercontent.com/santveraaa/TestPlugins/builds/ExampleProvider.cs3",
+        "description": "Asian Drama Movie & Series",
+        "url": "https://github.com/santveraaa/TestPlugins/builds/ExampleProvider.cs3",
         "name": "Dramaid"
     },
 	{
