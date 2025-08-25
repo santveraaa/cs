@@ -1,5 +1,26 @@
 [
-    
+    {
+		"iconUrl": "hhttps://tv7.idlix.asia/wp-content/uploads/2020/07/logov4.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/santveraaa/TestPlugins",
+        "fileSize": 29215,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 19,
+        "internalName": "Idlix",
+        "url": "https://raw.githubusercontent.com/santveraaa/TestPlugins/builds/Idlix.cs3",
+        "name": "Idlix"
+	},
    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
         "jarFileSize": 110555,
