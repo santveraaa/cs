@@ -111,7 +111,7 @@
         "name": "MovieBoxProviderIN"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.nl&sz=%size%",
+        "iconUrl": ",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/santveraaa/cs",
         "fileSize": 20856,
@@ -126,8 +126,8 @@
             "Movie"
         ],
         "version": 13,
-        "internalName": "Dramaid",
-        "description": "Include: Oppadrama",
+        "internalName": "Oppadrama",
+        "description": "",
         "url": "https://github.com/santveraaa/cs/main/OppadramaProvider.cs3",
         "name": "Dramaid"
     },
