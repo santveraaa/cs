@@ -111,9 +111,9 @@
         "name": "MovieBoxProviderIN"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/santveraaa/cs/refs/heads/main/logo/Oppadrama_logo.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.nl&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/santveraaa/cs",
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
         "fileSize": 20856,
         "status": 1,
         "language": "id",
@@ -126,9 +126,9 @@
             "Movie"
         ],
         "version": 13,
-        "internalName": "Oppadrama",
-        "description": "",
-        "url": "https://github.com/santveraaa/cs/main/OppadramaProvider.cs3",
+        "internalName": "Dramaid",
+        "description": "Include: Oppadrama",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Dramaid.cs3",
         "name": "Dramaid"
     },
 	{
