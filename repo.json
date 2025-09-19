@@ -3,6 +3,6 @@
   "description": "Providers from all country",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/santveraaa/cs/refs/heads/main/plugin.json"
+    "https://raw.githubusercontent.com/santveraaa/cs/refs/heads/main/plugins.json"
   ]
 }
