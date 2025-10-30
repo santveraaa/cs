@@ -154,27 +154,6 @@
         "name": "Extractors"
 	},
 	{
-		  "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 28569,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 27,
-        "internalName": "Moviesmod",
-        "description": "Includes Topmovies",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Moviesmod.cs3",
-        "name": "Moviesmod"
-	},
-	{
 		 "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
@@ -280,25 +259,25 @@
         "name": "Pusatfilm"
 	},
 	{
-		 "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
+		"iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.nl&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
-        "fileSize": 15081,
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "fileSize": 22044,
         "status": 1,
         "language": "id",
         "authors": [
-            "Duro92"
+            "Hexated",
+            "TeKuma25"
         ],
         "tvTypes": [
             "AsianDrama",
-            "TvSeries",
             "Movie"
         ],
-        "version": 2,
-        "internalName": "Oppadrama",
-        "description": "Oppadrama",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Oppadrama.cs3",
-        "name": "Oppadrama"
+        "version": 13,
+        "internalName": "Dramaid",
+        "description": "Include: Oppadrama",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Dramaid.cs3",
+        "name": "Dramaid"
 	}
-		
+			
 ]
