@@ -259,25 +259,26 @@
         "name": "Pusatfilm"
 	},
 	{
-		"iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.nl&sz=%size%",
+		"iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
-        "fileSize": 22044,
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "fileSize": 15286,
         "status": 1,
         "language": "id",
         "authors": [
-            "Hexated",
-            "TeKuma25"
+            "Duro92"
         ],
         "tvTypes": [
             "AsianDrama",
+            "TvSeries",
             "Movie"
         ],
-        "version": 13,
-        "internalName": "Dramaid",
-        "description": "Include: Oppadrama",
-        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Dramaid.cs3",
-        "name": "Dramaid"
+        "version": 3,
+        "internalName": "Oppadrama",
+        "description": "Oppadrama",
+        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Oppadrama.cs3",
+        "name": "Oppadrama"
+
 	},
 	{
 		"iconUrl": "https://www.google.com/s2/favicons?domain=onetouchtv.xyz/&sz=%size%",
