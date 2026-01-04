@@ -306,7 +306,7 @@
 
 	},
 	{
-		        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://justilien.com&size=%size%",
+		"iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://justilien.com&size=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/duro92/ExtCloud",
         "fileSize": 27986,
@@ -327,7 +327,6 @@
         "name": "Dutamovie"
 	},
 	{
-		{
         "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.nl&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
