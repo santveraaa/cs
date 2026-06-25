@@ -224,36 +224,6 @@
         "name": "Dramaid"
 	},
 	{
-		"iconUrl": "https://midasxxi.com/wp-content/uploads/2024/01/cropped-favicon.png",
-		"apiVersion": 1,
-		"repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-		"fileSize": 21789,
-		"status": 1,
-		"language": "id",
-		"authors": ["Asm0d3usX"],
-		"tvTypes": ["AsianDrama", "TvSeries", "Movie"],
-		"version": 1,
-		"internalName": "MidasXXi",
-		"description": "📺 Streaming Movie and TV Series",
-		"url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/MidasXXi.cs3",
-		"name": "MidasXXi"
-	},
-	{
-		"iconUrl": "https://iili.io/JGJa71a.png",
-		"apiVersion": 1,
-		"repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-		"fileSize": 18685,
-		"status": 1,
-		"language": "id",
-		"authors": ["Asm0d3usX"],
-		"tvTypes": ["AsianDrama", "TvSeries", "Movie"],
-		"version": 1,
-		"internalName": "Nomat",
-		"description": "📺 Streaming Movie and TV Series",
-		"url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Nomat.cs3",
-		"name": "Nomat"
-	},
-	{
 		"iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://drakorid.co&size=%size%",
         "fileHash": "sha256-f6b53b552967e6a38d9734c74ddf826283d9cceb749f5466e3fdeb558b414060",
         "apiVersion": 1,
@@ -274,51 +244,7 @@
         "description": "Drakor.id",
         "url": "https://raw.githubusercontent.com/MesraGames/Mesra_Stream/builds/DrakoridProvider.cs3",
         "name": "DrakoridProvider"
-	},
-	{
-		 "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
-        "fileHash": "sha256-4be315ed15db60c4cd0e3230a23120a8166a41b9cc40c2101114a5dff3e6dd03",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MesraGames/Mesra_Stream",
-        "fileSize": 20819,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Duro92"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 11,
-        "internalName": "Oppadrama",
-        "description": "Oppadrama",
-        "url": "https://raw.githubusercontent.com/MesraGames/Mesra_Stream/builds/Oppadrama.cs3",
-        "name": "Oppadrama"
-	},
-	{
-		 "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sflix.film&size=%size%",
-        "fileHash": "sha256-cc490b3fa01f56572b6ef81d1af8fe8cbbee026fa7d29f99be30cd7e8ec094d9",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MesraGames/Mesra_Stream",
-        "fileSize": 35669,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Duro92"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 1,
-        "internalName": "Sflix",
-        "description": "Sflix - Movie & Series subtitle indonesia",
-        "url": "https://raw.githubusercontent.com/MesraGames/Mesra_Stream/builds/Sflix.cs3",
-        "name": "Sflix"
 	}
+	
 
 ]
